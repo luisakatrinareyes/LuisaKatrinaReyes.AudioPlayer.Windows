@@ -1,0 +1,15 @@
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.csprojAssemblyReference.cache
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\App.g.cs
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows_MarkupCompile.cache
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows_MarkupCompile.lref
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\bin\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.exe.config
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\bin\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.exe
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\bin\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.pdb
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.g.resources
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.Properties.Resources.resources
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.csproj.GenerateResource.cache
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.exe
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.AudioPlayer\LuisaKatrinaReyes.AudioPlayer.Windows\obj\Debug\LuisaKatrinaReyes.AudioPlayer.Windows.pdb
